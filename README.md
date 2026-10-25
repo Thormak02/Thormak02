@@ -2,9 +2,10 @@
 
 **Software Engineering, Prozessautomatisierung und KI-Integration** · Wolfsburg
 
-Ich bin Friedrich Dietrich (vollständiger Name: Johann Friedrich Wilhelm Dietrich) und studiere dual Informatik mit Schwerpunkt Software Engineering an der IU Internationalen Hochschule; den Abschluss plane ich für März 2027. Als selbstständiger IT-Dienstleister entwickle ich n8n-Automatisierungen, API- und CRM-Integrationen und KI-Workflows und unterstütze bei IT-Infrastruktur.
+Ich bin Friedrich Dietrich (vollständiger Name: Johann Friedrich Wilhelm Dietrich) und studiere seit 10/2023 dual Informatik mit Vertiefung Software Engineering an der IU Internationalen Hochschule; den Abschluss als B.Sc. plane ich für 03/2027. Im Praxisteil des Studiums bin ich für IT-Administration und Softwareentwicklung zuständig, mit Schwerpunkt auf Prozessautomatisierung mit n8n, Python und REST-APIs. Nebenberuflich biete ich IT-Dienstleistungen an.
 
 - Website: [friedrich-dietrich.de](https://friedrich-dietrich.de/)
+- Lebenslauf: [friedrich-dietrich.de/lebenslauf.html](https://friedrich-dietrich.de/lebenslauf.html)
 - Projekte: [friedrich-dietrich.de/projekte.html](https://friedrich-dietrich.de/projekte.html)
 - LinkedIn: [johann-friedrich-wilhelm-dietrich](https://www.linkedin.com/in/johann-friedrich-wilhelm-dietrich/)
 
