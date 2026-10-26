@@ -8,6 +8,7 @@ Ich bin Friedrich Dietrich (vollständiger Name: Johann Friedrich Wilhelm Dietri
 - Lebenslauf: [friedrich-dietrich.de/lebenslauf.html](https://friedrich-dietrich.de/lebenslauf.html)
 - Projekte: [friedrich-dietrich.de/projekte.html](https://friedrich-dietrich.de/projekte.html)
 - LinkedIn: [johann-friedrich-wilhelm-dietrich](https://www.linkedin.com/in/johann-friedrich-wilhelm-dietrich/)
+- Impressum: [friedrich-dietrich.de/impressum.html](https://friedrich-dietrich.de/impressum.html)
 
 ## Repositories
 
